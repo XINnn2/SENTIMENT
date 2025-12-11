@@ -3,4 +3,5 @@ pandas
 numpy
 streamlit
 nltk
-matplotlib.pyplot
+matplotlib
+streamlit
